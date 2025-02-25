@@ -1,4 +1,4 @@
-<p align="left">
+<p align="top">
 <img src="/assets/logo.png" alt="ExpenseOwl Logo" width="250" height="250" /><br>
 <h1 align="center">ExpenseOwl</h1><br>
 
