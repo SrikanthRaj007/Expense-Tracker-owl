@@ -1,5 +1,9 @@
+
+<p align="top">
+
 <p align="right">
 <P align="left">
+
 <img src="/assets/logo.png" alt="ExpenseOwl Logo" width="250" height="250" /><br>
 <h1 align="center">ExpenseOwl</h1><br>
 
